@@ -1,4 +1,10 @@
-Hi, I’m @NChavezOne. You can call me Nick. <br>
+# Welcome to my Github Profile
 
-How to reach me: <br>
-  -NChavez0516@gmail.com
+My name is Nicholas Chavez.
+
+## Visit my website
+
+You can visit my website [here.](https://nicholas-chavez.com)
+
+## How to reach me
+The best way to reach me for serious inquiries is my email at NChavez0516@gmail.com
